@@ -1,0 +1,3 @@
+Goals:
+1: Create Fuel, Coins and Obstacles and to make them appear randomly in the game
+2: Create a function to collect Fuel and Coins
